@@ -90,7 +90,7 @@ packet analysis, detections, python automation, and exploratory ML models.
 
 ### 📫 Contact
 
-- 🌍 LinkedIn (coming soon)  
-- 📧 your.email@example.com  
+- 🌍 www.linkedin.com/in/brenda-santos-de-albuquerque  
+- 📧brenda.albuquerque@outlook.com
 
-> “Security is not just about systems — it’s about people.”
+> “Security is not just about systems, it’s about people.”
