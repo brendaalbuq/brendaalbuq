@@ -1,31 +1,32 @@
 # 👩‍💻 Brenda Santos de Albuquerque
 
 ### 💡 About Me
-I'm a **Computer Systems Engineering student** at IPCA (Portugal) with international academic experience in **Austria** and **Macau**.  
-At the moment, I'm focusing mainly on **Cybersecurity**, while also developing interest in **AI for Security** and data-driven approaches to privacy and digital wellbeing.
+I'm a **Computer Systems Engineering student** from IPCA (Portugal) with international academic experience in **Austria** and **Macau**.  
+My primary focus is **Cybersecurity**, especially within **healthcare environments**, where protecting data and systems has a direct impact on people's lives.
 
-I enjoy understanding how systems fail, how networks behave, and how technology can be used to protect people and organizations.  
-My goal is to build a solid foundation in security and gradually grow into areas where **AI and Cyber Defense** intersect.
+I’m also interested in how **Artificial Intelligence** can support security, threat detection, and digital wellbeing.  
+My goal is to build a solid foundation in security while exploring how AI and data can help create safer, more ethical healthcare technologies.
 
 ---
 
-### 🔐 Primary Focus — Cybersecurity
-- Security fundamentals (confidentiality, integrity, availability)  
-- Network security & traffic analysis  
-- Vulnerability assessment basics  
+### 🔐 Main Focus — Cybersecurity in Healthcare
+- Network security and traffic analysis  
+- Vulnerability assessment fundamentals  
 - Incident response and threat detection  
-- Ethical hacking fundamentals  
-- System administration & Linux usage  
-- Privacy, data protection and ethical use of technology  
+- Digital forensics basics  
+- Linux administration and security  
+- Safe handling of clinical and sensitive data  
+- GDPR and privacy considerations  
+- Ethical use of technology in healthcare  
 
 ---
 
-### 🧠 Secondary Focus — Artificial Intelligence for Security
-- Detecting anomalies in network traffic  
-- ML techniques for classification and threat scoring  
-- AI for digital wellbeing and behaviour analysis  
-- Privacy-preserving data handling  
-- Ethical and human-centered AI  
+### 🧠 Secondary Focus — AI & Data for Security and Health
+- Anomaly detection in medical networks  
+- ML for threat classification  
+- Data analysis for clinical and wellbeing applications  
+- Privacy-preserving data techniques  
+- Responsible and human-centered AI  
 
 ---
 
@@ -34,8 +35,8 @@ My goal is to build a solid foundation in security and gradually grow into areas
 **Languages:**  
 Python · C · C#
 
-**Cybersecurity Tools (learning/practice):**  
-Wireshark · Nmap · Kali Linux · Metasploitable · Snort/Suricata (basic)  
+**Cybersecurity Tools (learning and practice):**  
+Wireshark · Nmap · Kali Linux · Metasploitable · Snort (basic)  
 
 **AI & Data:**  
 Pandas · NumPy · Scikit-learn · Jupyter Notebook  
@@ -45,7 +46,7 @@ Linux · Docker · Git · Basic Azure knowledge
 
 ---
 
-### 🎓 Education & Background
+### 🎓 Education
 
 - 🎓 **BSc in Computer Systems Engineering — IPCA, Portugal**  
 - 🎓 **Exchange Semester — FH Vorarlberg, Austria**  
@@ -64,20 +65,26 @@ Linux · Docker · Git · Basic Azure knowledge
 - 📘 **RUN-EU Short Advanced Programme:**  
   *Innovative Methods in Mental Wellbeing* (Belgium/Ireland)
 
-- 🎓 **Technical Degree — IT Systems & Advanced Python Programming (IEFP, Portugal)**  
+- 🎓 **Technical Degree — IT Systems & Advanced Python Programming** (IEFP, Portugal)
 
 ---
 
-### 🚀 What I’m Working On
+### 🚀 What I’m Building Now
 
-Right now, I'm building a portfolio focused on Cybersecurity and practical learning:
+I’m developing a portfolio that reflects my interests in **healthcare security**, **data protection**, and **AI-assisted threat detection**.
 
-- **🔎 Network-Defense-Lab** — network analysis, scanning, packet inspection  
-- **📡 Threat-Detection-Lab** — anomaly detection experiments using ML  
-- **🛡️ Cyber-Learning-Notes** — documentation of tools, commands and labs  
+Current projects include:
 
-My plan is to grow these projects gradually with real practice:  
-packet analysis, detections, python automation, and exploratory ML models.
+- **🛡️ Healthcare-Network-Defense-Lab**  
+  Network scans, packet inspection, and traffic analysis using real-world healthcare scenarios.
+
+- **📡 Medical-Threat-Detection-ML**  
+  Small ML experiments focused on identifying suspicious patterns in network logs or clinical system data.
+
+- **📘 Cyber-Health-Learning-Notes**  
+  Notes, summaries, tools, commands, and learning paths related to cybersecurity and digital health.
+
+These projects are a work-in-progress and evolve as I learn and practice.
 
 ---
 
@@ -90,7 +97,7 @@ packet analysis, detections, python automation, and exploratory ML models.
 
 ### 📫 Contact
 
-- 🌍 www.linkedin.com/in/brenda-santos-de-albuquerque  
-- 📧brenda.albuquerque@outlook.com
+- 🌍 www.linkedin.com/in/brenda-santos-de-albuquerque 
+- 📧 brenda.albuquerque@outlook.com
 
-> “Security is not just about systems, it’s about people.”
+> “Security in healthcare is not just about systems, it’s about protecting people.”
